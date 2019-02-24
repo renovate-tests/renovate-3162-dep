@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@flydiverny/renovate-bug": "1.0.0"
+    "@flydiverny/renovate-bug": "1.0.2"
   }
 }
