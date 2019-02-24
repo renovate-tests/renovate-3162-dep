@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@flydiverny/renovate-bug": "1.0.2",
+    "@flydiverny/renovate-bug": "2.0.2",
     "@flydiverny/renovate-bug-dep": "1.0.2"
   }
 }
